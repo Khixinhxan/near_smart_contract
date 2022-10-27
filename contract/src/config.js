@@ -1,0 +1,1 @@
+const CONTRACT_NAME = 'tilek.testnet'
