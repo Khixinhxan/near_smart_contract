@@ -1,0 +1,1 @@
+# near_smart_contract
